@@ -4,7 +4,7 @@ metadata:
   name: '{{.Values.microservices.orderservice.serviceName}}'
 data:
   DB_HOST: localhost
-  DB_PASSWORD: shen21li
+  DB_PASSWORD: root
   DB_USERNAME: root
   MYSQL_DATABASE: OrdersDB
   MYSQL_ROOT_PASSWORD: root
