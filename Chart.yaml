@@ -1,0 +1,4 @@
+apiVersion: v2
+name: orderapp-chart
+version: 1.0.0
+description: A Helm chart for orderapp application.
